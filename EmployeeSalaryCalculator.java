@@ -13,6 +13,5 @@ public class EmployeeSalaryCalculator {
 
         baseSalary -= baseSalary*0.12;
         System.out.println("Net Salary; "+baseSalary);
-        sc.close();
     }
 }
